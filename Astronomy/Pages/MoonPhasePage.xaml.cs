@@ -41,4 +41,5 @@ public partial class MoonPhasePage : ContentPage
             { MoonPhaseCalculator.Phase.QuartoMInguante, "🌗" },
             { MoonPhaseCalculator.Phase.QuaseNova, "🌘" },
         };
+
 }
